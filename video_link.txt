@@ -1,11 +1,20 @@
 2X Assignment 1:Install Google App Engine. Create hello world app and other simple web applications using python/java. 
 -> https://www.youtube.com/watch?v=2lhOEO-zmjw
+https://www.npackd.org/p/com.google.AppEnginePythonSDK/1.9.62
 
 2X Assignment 2:Use GAE launcher to launch the web applications. 
 ->https://www.youtube.com/watch?v=8re44RiaocY
+https://cloud.google.com/sdk/docs/install
+https://console.cloud.google.com/
+https://github.com/GoogleCloudPlatform/python-docs-samples
+cd python-docs-samples/appengine/standard_python3/hello_world
+gcloud app deploy
+gcloud app browse
 
 Assignment 4:Find a procedure to transfer the filesfrom one virtual machine to another virtual machine. 
 ->https://www.youtube.com/watch?v=0MaS0nZCTZc
+VirtualBox- https://www.virtualbox.org/wiki/Downloads
+Ubuntu Image- https://portal.cloud.hashicorp.com/vagrant/discover/bento/ubuntu-18.04
 
 Assignment 5:Find a procedure to launch virtual machine using aws
 ->https://www.youtube.com/watch?v=FLLnxIDPUMQ
