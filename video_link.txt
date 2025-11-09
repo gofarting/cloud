@@ -18,7 +18,7 @@ Ubuntu Image- https://portal.cloud.hashicorp.com/vagrant/discover/bento/ubuntu-1
 github Ubuntu- https://drive.google.com/drive/u/0/folders/1me_nJJh0fvdDOXX3ew2jzGQpoP7f_iFt
 
 Assignment 5:Find a procedure to launch virtual machine using aws
-->https://www.youtube.com/watch?v=FLLnxIDPUMQ
+->https://www.youtube.com/watch?v=NfnVflt1Jxw
 
 Assignment 6:Design and deploy a web application in a PaaS environment. 
 ->https://www.youtube.com/watch?v=12Thoc5MsF8
@@ -32,4 +32,5 @@ Assignment 8:Design an Assignment to retrieve, verify, and store user credential
 
 
 https://github.com/suyash-more/Cloud-Computing-Projects
+
 
